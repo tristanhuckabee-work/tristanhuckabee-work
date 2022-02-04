@@ -1,3 +1,7 @@
 # Tristan Huckabee
 
-> app/Academy December 2021 Cohort
+Good At:
+[ ] - Problem Solving
+
+Bad At:
+[ ] - Growing Facial Hair
