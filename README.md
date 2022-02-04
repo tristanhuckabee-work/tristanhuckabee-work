@@ -1,7 +1,7 @@
 # Tristan Huckabee
 
 Good At:
-[ ] - Problem Solving
+- Problem Solving
 
 Bad At:
-[ ] - Growing Facial Hair
+- Growing Facial Hair
