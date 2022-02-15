@@ -1,4 +1,6 @@
 # Tristan Huckabee
 
-Bad At:
-- Growing Facial Hair
+- HTML / CSS
+- JavaScript
+- Figma
+- Twine
