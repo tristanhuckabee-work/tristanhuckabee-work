@@ -1,6 +1,3 @@
 # Tristan Huckabee
 
-- JavaScript
-- HTML / CSS
-- Figma
-- Twine
+I like when keyboard goes 'click-clack' and when my garden is green.
