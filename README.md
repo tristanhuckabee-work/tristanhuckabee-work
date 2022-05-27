@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tristan Huckabee</h1>
 <h3 align="center">A Full Stack Software Engineer from Texas</h3>
 
+![giphy](https://user-images.githubusercontent.com/87467157/170801327-aed80ec2-5c6e-4fa1-8483-71d0568693e8.gif)
+
 - 👨‍💻 All of my projects are available at [https://tristanhuckabee-work.github.io/](https://tristanhuckabee-work.github.io/)
 - ⚡ Fun fact **I'm pretty into magic and TTRPGs.**
 
