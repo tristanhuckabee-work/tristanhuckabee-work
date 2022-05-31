@@ -75,4 +75,5 @@
     </a>
   </p>
   <p>I puked after riding a roller-coaster 7 times back-to-back for a japanese TV show</p>
+  <p>Currently Working On: <a href="https://github.com/tristanhuckabee-work/gartic-clone" target="_blank" rel="noreferrer">Gartic Clone</a></p>
 </div>
