@@ -74,4 +74,5 @@
       <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
     </a>
   </p>
+  <p>I cut class once to ride a roller-coaster back-to-back 7 times for a japanese TV show</p>
 </div>
