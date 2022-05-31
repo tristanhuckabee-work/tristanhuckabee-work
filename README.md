@@ -74,5 +74,5 @@
       <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
     </a>
   </p>
-  <p>I cut class once to ride a roller-coaster back-to-back 7 times for a japanese TV show</p>
+  <p>I cut class once to ride a roller-coaster multiple times, back-to-back, for a japanese TV show, I puked after the 7th time.</p>
 </div>
