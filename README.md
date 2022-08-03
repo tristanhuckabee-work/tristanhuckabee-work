@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">I am Tristan Huckabee</h1>
+  <h1 align="center">👁️‍ I am Tristan Huckabee 👁️‍</h1>
   <h3 align="center">A Full Stack Software Engineer based in Dallas, Texas</h3>
   
 <!--   ![new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/87467157/170802022-58bf9c93-032b-4ffb-94a0-9bdca55e157e.gif) -->
