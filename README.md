@@ -5,7 +5,7 @@
 <!--   ![new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/87467157/170802022-58bf9c93-032b-4ffb-94a0-9bdca55e157e.gif) -->
   ![umaru-typing](https://user-images.githubusercontent.com/87467157/171075280-6c88c957-fa71-4da3-acbb-7192129ffd4a.gif)
 
-  All of my projects and resume are available on [My Portfolio](https://huckabee.software/)
+<!--   All of my projects and resume are available on [My Portfolio](https://huckabee.software/) -->
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanhuckabee-work&show_icons=true&locale=en" alt="tristanhuckabee-work" />
   </p>
